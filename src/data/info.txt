@@ -1,0 +1,1 @@
+run info for GA serial:node:50edge280task:100capacity100
